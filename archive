@@ -1,0 +1,11 @@
+처음 코드 업로드 시
+1. 초기화: git init
+2. 추가할 파일 더하기: git add.
+(.은 모든 파일이라는 뜻, 선택적으로 올리고 싶다면 git add index.html)
+
+; 
+내 정보: git config --list
+상태 확인: git status
+히스토리 만들기: git commit -m "message"
+깃허브에 게시: git push branch name
+브랜치끼리 이동: git checkout branch name
